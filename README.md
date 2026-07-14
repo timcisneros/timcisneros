@@ -11,6 +11,10 @@ on the job.
   for building and debugging DocuSign CLM workflows. It turns dense workflow
   exports into interactive graphs and reduced variable tracing from an
   afternoon of JSON inspection to minutes.
+- **[Entity Visualization](https://github.com/timcisneros/entity-visualization)** —
+  An anonymized public version of a professional React Flow organization chart
+  for tracing ownership, parent and subsidiary relationships, distributions,
+  and connected records across complex entity structures.
 - **[Self-Hosted YouTube](https://github.com/timcisneros/my-youtube)** — A
   private subscription frontend whose server proxies streams, thumbnails, and
   metadata so the browser never contacts Google. Its storage, queue, and worker
@@ -44,4 +48,3 @@ Cognito · DynamoDB · Step Functions · Playwright · GitHub Actions
 [Portfolio](https://timcis.com) ·
 [LinkedIn](https://www.linkedin.com/in/timcisneros/) ·
 [Email](mailto:tcisneros.cis@gmail.com)
-
