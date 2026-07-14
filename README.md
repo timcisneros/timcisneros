@@ -3,7 +3,11 @@
 Full-stack software developer building applications that automate operational
 work. I work across TypeScript, React, Vue.js, Node.js, SQL, and AWS, with an
 emphasis on inspectable systems, reliable workflows, and tools people can use
-on the job.
+on the job. Through TimCis Media, I run an independent software-development and
+digital-production practice delivering and maintaining client applications.
+Previously, as a Solutions Engineer at Bitwise Industries / Stria, I also
+collaborated on the professional TCS/Stria Taleo project as part of its delivery
+team; that client work remains non-public.
 
 ## Selected engineering work
 
